@@ -7,10 +7,12 @@ import Projects from "./screens/Projects/Projects.jsx";
 
 // Importing components
 import Header from "./components/Header/Header.jsx";
+import Navbar from "./components/Navbar/Navbar.jsx";
 
 function App() {
   return (
     <div className="App">
+      <Navbar />
       <Header />
       <About />
       <Projects />
