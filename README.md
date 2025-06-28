@@ -1,3 +1,33 @@
+# Christian's Portfolio 🚀
+
+Welcome to my personal portfolio website built with **React** and **Bootstrap**!  
+This project showcases my web development projects, background, and ways to connect with me.
+
+## 📌 Features
+
+- Responsive design (mobile-friendly)
+- Smooth navbar navigation
+- About Me section with profile photo
+- Project cards with links
+- Contact form with Bootstrap styling
+- Back-to-top button
+
+## 🛠 Technologies Used
+
+- React
+- Bootstrap 5
+- Custom CSS with my own color palette
+- Git + GitHub for version control
+
+## 🖥️ Live Demo
+
+Check it out live: [https://your-deployment-link.com](#)
+
+## 📬 Contact Me
+
+- **GitHub:** [christiandeness](https://github.com/christiandeness)
+- **LinkedIn:** [linkedin.com/in/christian-benjamin-deness](https://www.linkedin.com/in/christian-benjamin-de-ness)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
