@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/christians_portfolio/static/css/main.6ee7b4d8.css",
-    "main.js": "/christians_portfolio/static/js/main.3d1cb4ab.js",
-    "index.html": "/christians_portfolio/index.html",
-    "main.6ee7b4d8.css.map": "/christians_portfolio/static/css/main.6ee7b4d8.css.map",
-    "main.3d1cb4ab.js.map": "/christians_portfolio/static/js/main.3d1cb4ab.js.map"
+    "main.css": "/portfolio/static/css/main.6ee7b4d8.css",
+    "main.js": "/portfolio/static/js/main.3d1cb4ab.js",
+    "index.html": "/portfolio/index.html",
+    "main.6ee7b4d8.css.map": "/portfolio/static/css/main.6ee7b4d8.css.map",
+    "main.3d1cb4ab.js.map": "/portfolio/static/js/main.3d1cb4ab.js.map"
   },
   "entrypoints": [
     "static/css/main.6ee7b4d8.css",
