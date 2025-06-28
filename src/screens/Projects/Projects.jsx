@@ -1,16 +1,27 @@
 import React from "react";
+import "./Projects.css";
+import ProjectCard from "../../components/ProjectCard/ProjectCard";
 
 function Projects() {
   return (
     <div>
       <section id="projects">
-        <h1>My Projects</h1>
-        <p>Here are some of the projects I've worked on:</p>
-        <ul>
-          <li>Project 1: A web application for task management.</li>
-          <li>Project 2: A mobile app for fitness tracking.</li>
-          <li>Project 3: An open-source library for data visualization.</li>
-        </ul>
+        <h2>My Projects</h2>
+        <ProjectCard
+          title="Project 1"
+          description="This is a description of Project 1."
+          link="https://example.com/project1"
+        ></ProjectCard>
+        <ProjectCard
+          title="Project 2"
+          description="This is a description of Project 2."
+          link="https://example.com/project2"
+        />
+        <ProjectCard
+          title="Project 3"
+          description="This is a description of Project 3."
+          link="https://example.com/project3"
+        />
       </section>
     </div>
   );
