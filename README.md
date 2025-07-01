@@ -21,7 +21,7 @@ This project showcases my web development projects, background, and ways to conn
 
 ## 🖥️ Live Demo
 
-Check it out live: [https://your-deployment-link.com](#)
+Check it out live: [https://christiandeness.github.io/portfolio](#)
 
 ## 📬 Contact Me
 
